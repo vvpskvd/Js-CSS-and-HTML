@@ -1,5 +1,4 @@
-# HTML
-# JS
-# CSS
-
-Js, CSS and HTML archives and projects
+# JavaScript, CSS and HTML 
+    I gonna upload all of my stuff coded in JavaScript / CSS / HTML here.
+    
+    -By Vvpskvd.
